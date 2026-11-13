@@ -1,0 +1,12 @@
+{
+  "name": "ayinbox",
+  "interface": { "displayName": "AY Inbox" },
+  "plugins": [
+    {
+      "name": "ayinbox",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

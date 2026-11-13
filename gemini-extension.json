@@ -1,0 +1,11 @@
+{
+  "name": "ayinbox",
+  "version": "0.1.0",
+  "description": "The hosted AY Inbox MCP server and agent skills for cold email: lists, campaigns, the campaign brain, replies, meetings and reports.",
+  "mcpServers": {
+    "ayinbox": {
+      "httpUrl": "https://api.ayinbox.com/v1/mcp"
+    }
+  },
+  "contextFileName": "skills/ayinbox/SKILL.md"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ayinbox",
+  "owner": { "name": "AY Inbox", "email": "team@ayinbox.com" },
+  "plugins": [
+    {
+      "name": "ayinbox",
+      "source": "./",
+      "description": "The hosted AY Inbox MCP server with agent skills and commands for cold email."
+    }
+  ]
+}

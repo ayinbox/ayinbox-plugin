@@ -1,0 +1,19 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "ayinbox",
+  "description": "The AY Inbox plugin: the hosted MCP server, agent skills and slash commands.",
+  "owner": { "name": "AY Inbox", "email": "team@ayinbox.com", "url": "https://ayinbox.com" },
+  "plugins": [
+    {
+      "name": "ayinbox",
+      "source": "./",
+      "description": "Run AY Inbox cold email from your agent: build lists, draft campaigns and the campaign brain, triage replies and draft answers, offer meeting times and report results, through the hosted AY Inbox MCP server.",
+      "version": "0.1.0",
+      "author": { "name": "AY Inbox", "email": "team@ayinbox.com", "url": "https://ayinbox.com" },
+      "homepage": "https://docs.ayinbox.com",
+      "repository": "https://github.com/ayinbox/ayinbox-plugin",
+      "license": "MIT",
+      "keywords": ["cold-email", "outreach", "inbox", "mcp", "sales"]
+    }
+  ]
+}
